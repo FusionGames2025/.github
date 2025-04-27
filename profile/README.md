@@ -26,7 +26,7 @@ We love meeting fellow creatives! Here's how you can join in:
 
     📝 Follow our devlogs and updates
 
-You can also submit a request to mod specific games, please send us an email found on this github profile.
+    🛠️ You can also submit a request to mod specific games, please send us an email found on this github profile.
 
 ---
 Made with 💖 by indie creators who still dream big.
