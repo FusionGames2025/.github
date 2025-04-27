@@ -1,4 +1,4 @@
-# 🎮 Welcome to [Fusion Games]!
+# 🎮 Welcome to Fusion Games!
 We’re an indie game development collective creating unique, story-driven, and experimental games. Powered by passion and pixel art (sometimes), we aim to make games that spark curiosity and joy.
 
 # 🧾 About Us
@@ -25,6 +25,8 @@ We love meeting fellow creatives! Here's how you can join in:
     🤝 Contribute code, art, or feedback
 
     📝 Follow our devlogs and updates
+
+You can also submit a request to mod specific games, please send us an email found on this github profile.
 
 ---
 Made with 💖 by indie creators who still dream big.
